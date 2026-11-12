@@ -44,9 +44,6 @@ Proyek ini mengikuti pola **MVVM (Model-View-ViewModel)** dengan **Provider**:
 │       ├── add_transaction_screen.dart# Form tambah/ubah transaksi
 │       └── auth_dialog.dart          # Dialog masuk, daftar akun, & keluar
 ├── test/                             # Unit test dan widget test
-└── docs/
-    ├── ARCHITECTURE.md               # Catatan arsitektur teknis & integrasi
-    └── DESIGN.md                     # Panduan arah desain UI
 ```
 
 ## Persiapan & Cara Menjalankan
